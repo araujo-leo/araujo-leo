@@ -5,6 +5,10 @@
 [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/araujo-leo)
 
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=araujo-leo&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=araujo-leo&layout=donut)](https://github.com/araujo-leo/github-readme-stats)
+
+
+
 
 ## Tecnologias usadas
 
@@ -18,5 +22,5 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 </div>
 <br>
-< "Apixonado por tecnologia e dedicado ao desenvolvimento, em busca de inovação contínua." />
+< "Apixonado por tecnologia e dedicado ao desenvolvimento, em busca de inovação contínua." /> <br>
 Desenvolvedor em desenvolvimento! 💻
