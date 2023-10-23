@@ -27,4 +27,3 @@
 < "Apaixonado por tecnologia e dedicado ao desenvolvimento, em busca de inovação contínua." /> <br>
 Desenvolvedor em desenvolvimento! 💻
 
-![snake gif](https://github.com/araujo-leo/araujo-leo/blob/output/github-contribution-grid-snake.svg)
