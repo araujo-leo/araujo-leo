@@ -8,10 +8,18 @@
 [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/araujo-leo)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leoaraujofnd@gmail.com)
 
-<div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=araujo-leo&show_icons=true&theme=dark"></img>
+
+<h2 align="center">⚡ Estatísticas ⚡</h2>
+<br>
+<div align=center>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=araujo-leo&theme=dark&hide_border=falso&locale=pt_BR" alt="GitHub Streak" /></a><br>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=araujo-leo&show_icons=true&theme=dark"></img>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=araujo-leo&layout=donut&theme=dark"></img>
+  <br/>
 </div>
+
+ 
+
 
 
 
