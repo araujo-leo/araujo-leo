@@ -45,6 +45,6 @@ Desenvolvedor em desenvolvimento! 💻
 <br>
 
 <p align="center">
-  <img src="https://github.com/araujo-leo/araujo-leo/blob/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://github.com/araujo-leo/araujo-leo/blob/output/github-contribution-grid-snake.svg">
 </p>
 
