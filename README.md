@@ -48,3 +48,7 @@ Desenvolvedor em desenvolvimento! 💻
   <img src="https://github.com/araujo-leo/araujo-leo/blob/output/github-contribution-grid-snake.svg">
 </p>
 
+
+
+
+
