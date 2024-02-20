@@ -17,7 +17,7 @@
 <h2 align="center">⚡ Estatísticas ⚡</h2>
 <br>
 <div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=araujo-leo&theme=dark&hide_border=falso&locale=pt_BR" alt="GitHub Streak" /></a><br>
+   <!--  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=araujo-leo&theme=dark&hide_border=falso&locale=pt_BR" alt="GitHub Streak" /></a><br> -->
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=araujo-leo&show_icons=true&theme=dark"></img>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=araujo-leo&layout=donut&theme=dark"></img>
   <br/>
